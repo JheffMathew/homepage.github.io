@@ -1,0 +1,44 @@
+    	body{
+    		background-color: #034032;
+    		border: 8px solid #3CA18A;
+    	}
+    	
+    	h1{
+    		font-family: 'Reggae One', cursive;
+    		color: ghostwhite;
+    		text-align: left;
+    		margin-bottom: 4px;
+    		margin-left: 5px;
+    	}
+    	hr{
+    		background-color: #3CA18A;
+    		border: none;
+    		height: 8px;
+    		align-content: left;
+    	}
+    	h3{
+    		color: ghostwhite;
+    		font-family: sans-serif;
+    	}
+    	ul{
+    		color: #09B050;
+    		list-style-type: disc;	
+    	}
+
+    	ol{
+    		color: #09B050;
+    		size: 20px;	
+    	}
+    	
+    	p{
+    		font-family: sans-serif;
+    		color: ghostwhite;
+    		text-indent: 2em;
+    		font-size: 1.25em;
+    		text-align: justify;
+    		margin-bottom: 2em;
+    		margin-top: 2em;
+    		margin-left: 5px;
+    		margin-right: 5px;
+
+    	}

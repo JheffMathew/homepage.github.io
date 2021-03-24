@@ -1,0 +1,22 @@
+div {
+    height: 700px;
+    background: linear-gradient(to bottom, #3aafa9 0%, #66ffcc 100%)
+}
+p {
+    font-family: 'Lato';
+    color: black; 
+    font-size: 1.5em;
+    text-indent: 70px;
+    line-height: 25px;
+    word-spacing: 5px;
+}
+h3{
+    color: #2B7A78;
+    font-family: 'Kaushan Script', cursive;
+    font-size: 3em;
+    display: inline;
+    float: left; 
+    margin-left: 3.3em; 
+    text-shadow: 0px 0px 10px black, 2px 2px 10px black;
+
+}
